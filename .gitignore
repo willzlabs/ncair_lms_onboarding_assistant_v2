@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+index/
+models/*.gguf
+.gradio/
+.env
+evaluation/results_*.json
+comparison/results/
